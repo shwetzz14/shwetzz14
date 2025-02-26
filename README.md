@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-[![Holopin Badges](https://holopin.me/shwetzz14)](https://holopin.me/shwetzz14)
+<a href="https://holopin.me/shwetzz14">
+  <img src="https://holopin.me/shwetzz14" alt="Holopin Badges" width="400px">
+</a>
+
 
 
