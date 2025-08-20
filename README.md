@@ -1,11 +1,8 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shweta-patil-958360242">Shweta</a> </h1>
 
-<!--- Adding Header Elements -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/shweta-patil-958360242">LinkedIn</a> - 
-  <a href="https://x.com/_Shwetzz">Twitter</a> 
-</p>
-
+### Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_Shwetzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-patil-958360242)
 <!---
 shwetzz14/shwetzz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
