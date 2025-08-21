@@ -2,17 +2,14 @@
 
 ### Connect with me:
 
-<p align="left">
-  <a href="https://x.com/_Shwetzz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40" height="40"/>
+<p align="left" style="display:flex; gap:10px; align-items:center;">
+  <a href="https://x.com/_Shwetzz" target="_blank" style="margin-right:8px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32"/>
   </a>
-
-  
   <a href="https://www.linkedin.com/in/shweta-patil-958360242" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32"/>
   </a>
 </p>
-
 
 <!---
 shwetzz14/shwetzz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
