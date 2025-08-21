@@ -1,18 +1,13 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shweta-patil-958360242">Shweta</a> </h1>
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> 
+<a href="https://x.com/_Shwetzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_Shwetzz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shweta-patil-958360242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shweta-patil-958360242" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/__shwetzz?igsh=MTJuczZnZDQ3dG9yYQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shwetzz" height="30" width="40" /></a>
 
-<p align="center">
-  <a href="https://x.com/_Shwetzz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32" style="display:block;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shweta-patil-958360242" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" style="display:block;"/>
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32" style="display:block;"/>
-  </a>
-</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetzz14" alt="shwetzz14" /></a> </p>
 
 
 ## 🏆Open Source Contributions & Achievements
@@ -31,4 +26,14 @@
 </p>
 
 
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetzz14&show_icons=true&locale=en" alt="shwetzz14" style="margin-right: 20px;" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetzz14" alt="shwetzz14" />
+
+</div>
 
