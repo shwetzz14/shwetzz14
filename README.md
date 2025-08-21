@@ -3,13 +3,13 @@
 ### Connect with me:
 
 <p align="center" style="display:flex; justify-content:center; gap:15px; align-items:center;">
-  <a href="https://x.com/_Shwetzz" target="_blank">
+  <a href="https://x.com/_Shwetzz" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32" style="vertical-align:middle;"/>
   </a>
-  <a href="https://www.linkedin.com/in/shweta-patil-958360242" target="_blank">
+  <a href="https://www.linkedin.com/in/shweta-patil-958360242" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" style="vertical-align:middle;"/>
   </a>
-  <a href="https://www.instagram.com/__shwetzz?igsh=MTJuczZnZDQ3dG9yYQ==" target="_blank">
+  <a href="https://www.instagram.com/yourusername" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32" style="vertical-align:middle;"/>
   </a>
 </p>
