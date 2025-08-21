@@ -3,16 +3,23 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://x.com/_Shwetzz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shweta-patil-958360242" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32"/>
-  </a>
+  <span>
+    <a href="https://x.com/_Shwetzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32" style="display:inline-block;"/>
+    </a>
+  </span>
+  <span style="margin: 0 10px;">
+    <a href="https://www.linkedin.com/in/shweta-patil-958360242" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" style="display:inline-block;"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://www.instagram.com/yourusername" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32" style="display:inline-block;"/>
+    </a>
+  </span>
 </p>
+
 
 ## 🏆Open Source Contributions & Achievements
 ###  ⚡GSSOC(24) Badges 
